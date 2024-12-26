@@ -1,0 +1,74 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(TH.jpg);
+    background-size: cover;
+    
+    
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+
+header {
+    
+    color: #fff;
+    padding: 10px;
+}
+p{
+    text-align: center;
+}
+button{
+    background-color: aqua;
+    
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+form{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#main-content {
+    padding: 20px;
+}
+ a{
+  color:black;
+ }
+ table{
+    text-align: center;
+ }
+ 
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
